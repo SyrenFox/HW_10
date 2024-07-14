@@ -1,0 +1,119 @@
+    1  man ls
+    2  help ls
+    3  info ls
+    4  man ls
+    5  man
+    6  about ls
+    7  ls
+    8  cls
+    9  clear
+   10  ls
+   11  cd desktop
+   12  cd ..
+   13  clear
+   14  cd ..
+   15  cd ..
+   16  cd ..
+   17  cd ..
+   18  clear
+   19  cd ~
+   20  cg /
+   21  cd /
+   22  cd bin
+   23  ls
+   24  cd /d/
+   25  ls
+   26  pwd
+   27  cd важливе
+   28  mkdir Lesson
+   29  ls
+   30  mkdir Lesson2
+   31  touch empty.txt
+   32  ls
+   33  clear
+   34  vim empty.txt
+   35  nano empty.txt
+   36  cat empty.txt
+   37  cp empty.txt
+   38  pwd
+   39  cp USER@DESKTOP-3K9RR8R MINGW64 /d/важливе/empty.txt USER@DESKTOP-3K9RR8R MINGW64 /d
+   40  rm empty.txt
+   41  ping google.com
+   42  date
+   43  system_profiler
+   44  cd ..
+   45  system_profiler
+   46  clear
+   47  system_info
+   48  system profiler
+   49  system info
+   50  systeminfo
+   51  df -h
+   52  ifconfig
+   53  ipconfig
+   54  whoami
+   55  clear
+   56  git config --global user.name "SyrenFox"
+   57  git config --global user.email wildfiretest1@gmail.com
+   58  git clone https://github.com/SyrenFox/Lesson3.1.git
+   59  git status
+   60  cd Lesson3.1/
+   61  git status
+   62  touch New.txt
+   63  git status
+   64  git add New.txt
+   65  git status
+   66  git commit -m "New file created"
+   67  git status
+   68  git log
+   69  git branch
+   70  git checkout -b new_branch
+   71  git branch
+   72  git checkout main
+   73  git branch
+   74  git checkout new_branch
+   75  nano New.txt
+   76  git status
+   77  git commit -m "New modified"
+   78  git status
+   79  git checkout main
+   80  git merge new_branch
+   81  git branch
+   82  git status
+   83  git commite
+   84  git commit
+   85  git checkout new_branch
+   86  git merge main
+   87  git status
+   88  git commit
+   89  git checkout main
+   90  git status
+   91  git commit
+   92  git add New.txt
+   93  git add New.txt
+   94  git status
+   95  git commit
+   96  -c && rm ~/.bash_history
+   97  git clone https://github.com/SyrenFox/HW_10.git
+   98  cd HW_10
+   99  touch text_ignore.txt
+  100  nano .gitignore
+  101  git status
+  102  git add .gitignore
+  103  git commit -m "up tu date file"
+  104  touch main_test.txt
+  105  git add main_test.txt
+  106  git commit -m "update main_test"
+  107  git checkout -b develop 
+  108  git checkout develop
+  109  touch develop_test.txt
+  110  git add develop_test.txt
+  111  git commit -m "new file"
+  112  nano develop_test.txt
+  113  git status
+  114  git add develop_test.txt
+  115  git commit -m "new uptodate"
+  116  git checkout main
+  117  git merge develop
+  118  git log
+  119  history > command_list.csv
